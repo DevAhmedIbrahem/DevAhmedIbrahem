@@ -8,7 +8,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E66082&center=true&width=435&lines=Always+learning+new+things+;Flutter+Developer" alt="Typing SVG" /></a>
 </p> 
 
 - 🏢 I'm a Android application's developer using Flutter.
@@ -19,7 +19,7 @@
 
 ### Connect with Me :
 
-<a href="https://linkedin.com/in/dev-ahmed-ibrahem" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/dev-ahmed-ibrahem" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Ibrahem-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 
 ### 🛠 &nbsp;Tech Stack
