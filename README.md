@@ -23,7 +23,7 @@
 
 
 ### 🛠 &nbsp;Tech Stack
-![AWS]([![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#))&nbsp;
+[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
