@@ -24,12 +24,13 @@
 
 ### 🛠 &nbsp;Tech Stack
 ![AWS]([![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#))&nbsp;
-![Docker](	[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#))&nbsp;
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Firebase](https://img.shields.io/badge/-firebase-05122A?style=flat&logo=firebase&logoColor=007ACC)&nbsp;
-![Supabase](https://img.shields.io/badge/-supabase-05122A?style=flat&logo=supabase&logoColor=007ACC)&nbsp;
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#)
+[![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)](#)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 
 
 
